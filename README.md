@@ -1,3 +1,5 @@
+Check the result via [Vercel](https://git-advanced-afhq00861-milodevhh.vercel.app/?vercelToolbarCode=In_r1ifcCrTujie)
+
 # Git Conflicts Template
 
 This template has a few conflicts to help you practice resolving them.
